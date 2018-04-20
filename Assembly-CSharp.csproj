@@ -54,6 +54,15 @@
      <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
+     <Compile Include="Assets\script\Bullet.cs" />
+     <Compile Include="Assets\script\CameraController.cs" />
+     <Compile Include="Assets\script\Fire.cs" />
+     <Compile Include="Assets\script\PlayerController.cs" />
+     <Compile Include="Assets\script\SkinController.cs" />
+     <Compile Include="Assets\script\coun.cs" />
+     <Compile Include="Assets\script\disappear.cs" />
+     <Compile Include="Assets\script\docmd.cs" />
+     <Compile Include="Assets\script\rotate.cs" />
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Standard Assets\Effects\ToonShading\Shaders\ToonBasic.shader" />
      <None Include="Assets\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
