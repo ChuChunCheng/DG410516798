@@ -62,6 +62,7 @@
      <Compile Include="Assets\script\coun.cs" />
      <Compile Include="Assets\script\disappear.cs" />
      <Compile Include="Assets\script\docmd.cs" />
+     <Compile Include="Assets\script\playercontrol.cs" />
      <Compile Include="Assets\script\rotate.cs" />
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Standard Assets\Effects\ToonShading\Shaders\ToonBasic.shader" />
